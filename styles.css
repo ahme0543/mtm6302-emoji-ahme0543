@@ -68,8 +68,8 @@
   }
   
   /* Style for the hexadecimal reference */
-  .hex {
-    font-size: 1.2rem;
+  .dec {
+    font-size: 1rem;
     margin-top: 0.5rem;
     color: gray;
   }
